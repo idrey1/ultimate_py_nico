@@ -1,0 +1,15 @@
+import math
+
+print("round de 1.3: ",round(1.3))
+print("round de 1.7: ",round(1.7))
+print("round de 1.5: ",round(1.5))
+print("valor absoluto de -77: ",abs(-77))
+print("valor absoluto de 55:" , abs(55))
+
+print("math.ceil de 1.1: ",math.ceil(1.1))
+print("math.ceil de 1.5: ",math.ceil(1.1))
+print("math.floor de 1.99999: ",math.floor(1.99999))
+print("math.floor de 3.1: ",math.floor(3.5))
+print("math.isnan (no es un numero): ",math.isnan(23))
+print("math.pow(10,3): ", math.pow(10,3))
+print("math.sqrt(9):",math.sqrt(9))
