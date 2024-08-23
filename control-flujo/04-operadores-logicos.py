@@ -12,3 +12,7 @@ if gas or encendido or edad >17:
 
 if not gas or encendido:
     print('Puedes avanzar')
+
+# corto circuito
+if not gas or encendido or edad >17:
+    print('Puedes avanzar')
